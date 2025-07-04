@@ -1,1 +1,5 @@
 .env
+vectorized_data/
+__pycache__/
+*.tmp
+*~
